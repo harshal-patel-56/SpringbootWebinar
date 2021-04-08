@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://demo_api:demp_api@spring.aiatz.mongodb.net/springboot?retryWrites=true&w=majority
+      database: springboot
